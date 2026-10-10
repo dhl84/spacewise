@@ -1,0 +1,184 @@
+{
+ "about": "Made by src/journeys/chapters/galaxies/tools/make_cosmic_scales.py. Positions in the display frame (see the tool), int16 units of 0.1 million light-years, light-travel distances (H0 74.6, Omega_m 0.3).",
+ "unit_mly": 0.1,
+ "frame": "display: +Y = RA 185 Dec 0, +Z = celestial north pole, X = Y x Z",
+ "eq_to_display": [
+  [
+   -0.08715574,
+   0.9961947,
+   0.0
+  ],
+  [
+   -0.9961947,
+   -0.08715574,
+   0.0
+  ],
+  [
+   0.0,
+   0.0,
+   1.0
+  ]
+ ],
+ "groups": {
+  "count": 37998,
+  "in_laniakea": 3451,
+  "max_mly": 1318.860856441437,
+  "source": "cf4_tully_2023"
+ },
+ "places": {
+  "virgo": {
+   "name": "Virgo Cluster",
+   "pos_mly": [
+    -3.32,
+    67.23,
+    13.68
+   ],
+   "dist_mly": 68.7,
+   "v3k": 1577,
+   "pgc": 41440,
+   "members": 1,
+   "sep_deg": 0.91,
+   "in_laniakea": true
+  },
+  "coma": {
+   "name": "Coma Cluster",
+   "pos_mly": [
+    -46.27,
+    269.14,
+    144.78
+   ],
+   "dist_mly": 309.1,
+   "v3k": 7193,
+   "pgc": 44715,
+   "members": 263,
+   "sep_deg": 0.18,
+   "in_laniakea": false
+  },
+  "perseus": {
+   "name": "Perseus-Pisces",
+   "pos_mly": [
+    118.27,
+    -119.9,
+    148.99
+   ],
+   "dist_mly": 224.9,
+   "v3k": 5208,
+   "pgc": 12429,
+   "members": 51,
+   "sep_deg": 0.25,
+   "in_laniakea": false
+  },
+  "shapley": {
+   "name": "Shapley Supercluster",
+   "pos_mly": [
+    -155.25,
+    503.99,
+    -326.59
+   ],
+   "dist_mly": 620.3,
+   "v3k": 14695,
+   "pgc": 47202,
+   "members": 107,
+   "sep_deg": 0.31,
+   "in_laniakea": false
+  },
+  "norma": {
+   "name": "Norma Cluster",
+   "pos_mly": [
+    -90.36,
+    54.73,
+    -190.92
+   ],
+   "dist_mly": 218.2,
+   "v3k": 5052,
+   "pgc": 57612,
+   "members": 5,
+   "sep_deg": 0.17,
+   "in_laniakea": true
+  },
+  "centaurus": {
+   "name": "Centaurus Cluster",
+   "pos_mly": [
+    -8.37,
+    103.36,
+    -96.21
+   ],
+   "dist_mly": 141.5,
+   "v3k": 3261,
+   "pgc": 42246,
+   "members": 1,
+   "sep_deg": 2.46,
+   "in_laniakea": true
+  },
+  "hydra": {
+   "name": "Hydra Cluster",
+   "pos_mly": [
+    58.94,
+    131.84,
+    -79.57
+   ],
+   "dist_mly": 164.9,
+   "v3k": 3806,
+   "pgc": 31981,
+   "members": 1,
+   "sep_deg": 2.03,
+   "in_laniakea": true
+  },
+  "attractor": {
+   "name": "Great Attractor",
+   "pos_mly": [
+    -97.65,
+    117.56,
+    -138.7
+   ],
+   "dist_mly": 206.4,
+   "sg_hmpc": [
+    -45.6,
+    11.2,
+    8.8
+   ],
+   "note": "where our own streamline in the CF4++ flow slows below 150 km/s (the bottom of our basin)"
+  },
+  "sloan_wall": {
+   "name": "Sloan Great Wall",
+   "pos_mly": [
+    -51.3,
+    923.3,
+    4.9
+   ],
+   "dist_mly": 925,
+   "galaxies": 6843
+  },
+  "two_gly": {
+   "name": "2 billion light-years",
+   "radius_mly": 2000.0
+  }
+ },
+ "flows": {
+  "lines": 480,
+  "points": 15493,
+  "ours": 206,
+  "source": "cf4pp_courtois_2025",
+  "seeds": 900,
+  "agree_with_shell": 0.919
+ },
+ "shell": {
+  "vertices": 2376,
+  "triangles": 4748,
+  "extent_mly": [
+   991,
+   744,
+   632
+  ],
+  "cells": 4079,
+  "volume_hmpc3": 1945019,
+  "source": "dupuy_courtois_2023"
+ },
+ "sdss": {
+  "count": 49019,
+  "z_max": 0.2,
+  "max_mly": 2282,
+  "source": "sdss_dr17",
+  "query": "SELECT s.specObjID, s.ra, s.dec, s.z, p.modelMag_g, p.modelMag_r FROM SpecObj s JOIN PhotoObj p ON s.bestObjID = p.objID WHERE s.class='GALAXY' AND s.zWarning=0 AND s.z BETWEEN 0.005 AND 0.25 AND s.dec BETWEEN -3 AND 3 AND s.ra BETWEEN 100 AND 270 AND (s.legacy_target1 & 64) > 0 (then z <= 0.20)"
+ }
+}
