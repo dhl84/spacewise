@@ -11,10 +11,31 @@
 <header><nav><a href="index.html">Home</a> <a href="support.html">Help</a> <a href="teachers.html">Teachers</a> <a href="privacy.html" aria-current="page">Privacy</a> <a href="terms.html">Terms</a> <a href="open-licences.html">Licences</a></nav></header>
 <main>
 <h1>SpaceWise privacy policy</h1>
-<p>Last updated: 10 October 2026</p>
+<p>Last updated: 14 October 2026</p>
 <p>This policy explains what happens to information in <strong>SpaceWise: The Real Solar System</strong> ("the app") on a Meta Quest headset. The app is made by David Lee ("we", "us"). We wrote it for parents, carers and teachers. There is a short version for young people at the end.</p>
 <h2>The short answer</h2>
-<p>The app does not collect, store or send any personal information about you or your child. It has no accounts, no chat, no advertising, no analytics and no in-app purchases. Our own code never connects to the internet unless a grown-up turns on "Live space data" (it is off until a grown-up turns it on). Even then it only downloads public science data and sends nothing about you.</p>
+<p>The app does not collect, store or send any personal information about you or your child. At start-up it gets two items from the Meta account on the headset, the user ID and the age group. It uses them on the headset only, keeps neither and sends neither (see "Information from your Meta account"). It has no accounts of its own, no chat, no advertising, no analytics and no in-app purchases. Our own code never connects to the internet unless a grown-up turns on "Live space data" (it is off until a grown-up turns it on). Even then it only downloads public science data and sends nothing about you.</p>
+<h2>Information from your Meta account</h2>
+<p>When the app starts, the Meta Platform SDK (Meta's software library inside the app) gives the app access to two items from the Meta account that is signed in on the headset. Meta calls them "User ID" and "User Age Group". The app asks Meta for these two items and no others. It does not get the account's name, photo, email address, friends or date of birth.</p>
+<h3>User ID</h3>
+<ul>
+<li><strong>What it is:</strong> Meta's number for the signed-in Meta account. It is not a name and does not tell us who you are.</li>
+<li><strong>Why the app uses it:</strong> to run the app. The Meta Platform SDK uses it to check that this Meta account owns the app (Meta calls this the "entitlement check"). If the check fails, the app does not start. The SDK also uses it to get the account's age group (see below).</li>
+<li><strong>Where it is processed:</strong> on the headset, inside the Meta Platform SDK. Our own code never reads, shows or uses the number.</li>
+<li><strong>How long it is kept:</strong> the app does not store it. It is gone when the app closes.</li>
+<li><strong>Who receives it:</strong> we never send it, share it or receive it. The Meta Platform SDK talks only to Meta, under Meta's own privacy policy.</li>
+<li><strong>How to delete it:</strong> there is nothing for us to delete, because the app keeps no copy. Closing the app removes it from the app's memory.</li>
+</ul>
+<h3>User Age Group</h3>
+<ul>
+<li><strong>What it is:</strong> Meta's age group for the signed-in account: child (10 to 12), teen (13 to 17), adult, or unknown. It is not a date of birth or an age.</li>
+<li><strong>Why the app uses it:</strong> to follow Meta's rules for apps that serve both children and adults ("Mixed Ages" apps). Meta requires such an app to read the age group with Meta's Get Age Category service, so that it can give each account an experience that suits its age group. On an account for ages 10 to 12, or when Meta gives no age group, the app keeps "Live space data" off and nobody can turn it on. The app's own code then makes no internet requests at all.</li>
+<li><strong>Where it is processed:</strong> on the headset only.</li>
+<li><strong>How long it is kept:</strong> the app does not store it. It is gone when the app closes.</li>
+<li><strong>Who receives it:</strong> we never send it, share it or receive it.</li>
+<li><strong>How to delete it:</strong> there is nothing for us to delete, because the app keeps no copy.</li>
+</ul>
+<p>We never use either item for advertising, analytics or profiling, and we never combine them with other information.</p>
 <h2>What the app keeps on the headset</h2>
 <p>The app saves one save file on the headset, so that each player can carry on where they stopped. One file holds every explorer. Each save also keeps a backup copy of the save before it, in case the newest one is damaged. Up to six players can share the headset as "explorers". An explorer is only a picture of a planet or moon and a colour: the app never asks for a name. For each explorer the file holds:</p>
 <ul>
@@ -35,7 +56,7 @@
 <p>None of these hold personal information.</p>
 <p><strong>To delete one explorer's photos</strong>, use <strong>Grown-ups &gt; Photos</strong> (for the explorer who is playing). It deletes that explorer's photos and their logbook lines, and keeps the rest of that explorer's progress. <strong>To delete one explorer's data</strong>, use <strong>Grown-ups &gt; Reset progress</strong> in the app (for the explorer who is playing) or <strong>Grown-ups &gt; Explorers</strong> (to remove an explorer). Either one deletes that explorer's badges, logbook, quiz answers, mission progress, settings and photos from the headset at once. The app then writes the save file and its backup again, so no copy of the old progress stays. Other explorers keep theirs, and the grown-ups' settings stay. <strong>To delete everything</strong>, for every explorer, uninstall the app: that deletes the save file, all the photos and every other file the app keeps. There is no copy anywhere else.</p>
 <h2>Live space data (off unless a grown-up turns it on)</h2>
-<p>The app ships with real space weather data and asteroid data packed inside it, dated in the app, so it works fully without an internet connection. In <strong>Grown-ups &gt; Live space data</strong>, a grown-up can let the app download newer public data while the Space weather page or the list of asteroids passing Earth is open. This setting is off when the app is installed, and no part of the app asks a child to turn it on.</p>
+<p>The app ships with real space weather data and asteroid data packed inside it, dated in the app, so it works fully without an internet connection. In <strong>Grown-ups &gt; Live space data</strong>, a grown-up can let the app download newer public data while the Space weather page or the list of asteroids passing Earth is open. This setting is off when the app is installed, and no part of the app asks a child to turn it on. On a Meta account for ages 10 to 12, or when Meta gives no age group, the setting stays off and cannot be turned on (see "Information from your Meta account").</p>
 <p>When it is on, the app asks for the latest public data files from:</p>
 <ul>
 <li>the space weather service of the US National Oceanic and Atmospheric Administration, NOAA (services.swpc.noaa.gov), at most once every 30 minutes while the Space weather page is open (eight public files, about 7.5 MB in all), and</li>
@@ -47,8 +68,7 @@
 <h2>What Meta does</h2>
 <p>The app runs on Meta's headset and store, so some things are handled by Meta, not by us:</p>
 <ul>
-<li><strong>Purchase check.</strong> At start-up, the app asks the Meta system software whether this Meta account owns the app. Meta calls this an "entitlement check". The app only receives "yes" or "no".</li>
-<li><strong>Age category.</strong> Meta asks apps that serve both children and adults to check the account's age group (Meta's Get Age Category service). The app reads it on the headset only. It does not store it or send it anywhere, and today nothing in the app depends on it.</li>
+<li><strong>Purchase check and age group.</strong> The Meta Platform SDK checks that the account owns the app and reads the account's age group. "Information from your Meta account" above explains both.</li>
 <li><strong>Hand tracking</strong> is off unless you turn it on. The headset works out where the hands are, and the app uses those positions to draw virtual hands. The app does not record or store them.</li>
 <li><strong>Passthrough</strong> is used only in the optional "Space in your room" mode, where a model of the planets stands in your own room. The headset's system software shows your room behind the model. The app never receives the camera pictures, does not learn anything about your room and stores nothing about it. It asks for no camera permission. You place the model by pointing with a controller or your hand.</li>
 <li><strong>The headset, the Meta account, purchases, crash reports and the store</strong> are Meta's responsibility. They are covered by the <a href="https://www.meta.com/legal/privacy-policy/">Meta Privacy Policy</a> and the <a href="https://www.meta.com/legal/quest/privacy-policy/">Supplemental Meta Platforms Technologies Privacy Policy</a>, not by this policy.</li>
@@ -72,7 +92,7 @@
 </tr>
 <tr>
 <td>Internet</td>
-<td>Meta's own platform library uses it for the purchase and age checks. Our own code uses it only if a grown-up turns on "Live space data", to download public space science data from NOAA and NASA JPL. Nothing about you is sent, and the app works fully without an internet connection.</td>
+<td>Meta's own platform library uses it for the purchase and age group checks. Our own code uses it only if a grown-up turns on "Live space data", to download public space science data from NOAA and NASA JPL. Nothing about you is sent, and the app works fully without an internet connection.</td>
 </tr>
 </tbody>
 </table>
@@ -83,7 +103,7 @@
 <p>Under UK and EU data protection law you have rights to access, correct and delete personal data. We hold no personal data about you, so there is nothing for us to send, correct or delete. The only saved data is on the headset, and you control it (see "What the app keeps on the headset").</p>
 <p>If you have a question or a request, email us at lee_hantae@msn.com. We reply within 30 days. You also have the right to complain to the UK Information Commissioner's Office (<a href="https://ico.org.uk/make-a-complaint/">ico.org.uk</a>) or your local data protection authority.</p>
 <h2>Changes to this policy</h2>
-<p>If we change this policy, we change the date at the top and publish the new version at https://dhl84.github.io/spacewise/privacy.html. Version of 4 October 2026 (draft for publication): lists everything the save file keeps (with its times) and the Grown-ups &gt; Photos control. The version of 2 October 2026 added the optional, off-by-default Live space data download. We will not add any data collection without first updating this policy, the app's store listing and the Meta Data Use Checkup.</p>
+<p>If we change this policy, we change the date at the top and publish the new version at https://dhl84.github.io/spacewise/privacy.html. The version of 14 October 2026 added "Information from your Meta account", which names the user ID and the age group. Version of 4 October 2026 (draft for publication): lists everything the save file keeps (with its times) and the Grown-ups &gt; Photos control. The version of 2 October 2026 added the optional, off-by-default Live space data download. We will not add any data collection without first updating this policy, the app's store listing and the Meta Data Use Checkup.</p>
 <h2>For young people</h2>
 <ul>
 <li>The app does not ask for your name. It does not know who you are or where you live.</li>
