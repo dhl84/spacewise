@@ -1,0 +1,31 @@
+# SpaceWise: The Real Solar System
+
+> The real solar system at its true size and in true time, with eight narrated Journeys. Stand under a real mountaintop night sky, watch a real solar flare and fall into a spinning black hole. Explore every planet where it is today, real asteroids and all 88 constellations, or put a model of the planets in your room. Four reading depths go from quick facts to expert science, so the whole family can learn together. For ages 10 and up. No ads, no chat, no in-app purchases and no data collected.
+
+- Price: USD 7.99 in the US store. The store shows the price for your country.
+- Headset: Meta Quest 3, Meta Quest 3S
+- Ages: For ages 10 and up.
+- Internet: Not required. A grown-up can turn on optional live space data from NOAA and NASA.
+- Mixed reality: Optional. Space in your room puts a model of the planets in your room. Every other mode is virtual reality.
+- Controls: Meta Quest Touch controllers
+- Players: Single player
+- Language: English (UK)
+- Ads, chat and in-app purchases: None. The app collects no personal data.
+- Developer: dav3studios
+
+## Links
+
+- [Meta Horizon Store page](https://www.meta.com/experiences/1422848437569079/): buy and install SpaceWise
+- [Home](https://dhl84.github.io/spacewise/)
+- [Privacy policy](https://dhl84.github.io/spacewise/privacy.html)
+- [Terms of use](https://dhl84.github.io/spacewise/terms.html)
+- [Help and support](https://dhl84.github.io/spacewise/support.html)
+- [Guide for teachers](https://dhl84.github.io/spacewise/teachers.html)
+- [Open licences](https://dhl84.github.io/spacewise/open-licences.html)
+
+## More from dav3studios
+
+- [BodyWise](https://dhl84.github.io/bodywise/): A ride through the real human body, with blood cells at their real size.
+- [BeakerWise](https://dhl84.github.io/beakerwise/): 104 science experiments in biology, chemistry and physics on a virtual lab bench.
+- [EpochWise](https://dhl84.github.io/epochwise/): 45 moments of history on the real land, under the sky computed for that date.
+- [GambitWise](https://dhl84.github.io/gambitwise/): Learn chess and Go one small step at a time, with a spoken coach. Free.
