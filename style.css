@@ -106,3 +106,8 @@ footer {
 	body { font-size: 1.05rem; }
 	h1 { font-size: 1.8rem; }
 }
+
+/* Round 9: worksheets print without the menu and the footer. */
+@media print {
+	nav, footer { display: none; }
+}

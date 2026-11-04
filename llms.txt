@@ -1,6 +1,6 @@
 # SpaceWise: The Real Solar System
 
-> The real solar system at its true size and in true time, with eight narrated Journeys. Stand under a real mountaintop night sky, watch a real solar flare and fall into a spinning black hole. Explore every planet where it is today, real asteroids and all 88 constellations, or put a model of the planets in your room. Four reading depths go from quick facts to expert science, so the whole family can learn together. For ages 10 and up. No ads, no chat, no in-app purchases and no data collected.
+> The real solar system at its true size and in true time, with nine narrated Journeys. Fly to the afterglow of the Big Bang, stand in the Moon's shadow in a real eclipse and fall into a spinning black hole. Explore every planet where it is today, real asteroids and all 88 constellations, or put the planets in your room. Four reading depths go from quick facts to expert science, so the whole family can learn together. For ages 10 and up. No ads, no chat, no in-app purchases and no data collected.
 
 - Price: USD 7.99 in the US store. The store shows the price for your country.
 - Headset: Meta Quest 3, Meta Quest 3S
@@ -22,6 +22,11 @@
 - [Help and support](https://dhl84.github.io/spacewise/support.html)
 - [Guide for teachers](https://dhl84.github.io/spacewise/teachers.html)
 - [Open licences](https://dhl84.github.io/spacewise/open-licences.html)
+- [Worksheets for schools](https://dhl84.github.io/spacewise/worksheets.html)
+- [Worksheet: Earth and space](https://dhl84.github.io/spacewise/worksheet-earth-and-space.html)
+- [Worksheet: Forces](https://dhl84.github.io/spacewise/worksheet-forces.html)
+- [Worksheet: Light and shadows](https://dhl84.github.io/spacewise/worksheet-light-and-shadows.html)
+- [Worksheet: Space physics](https://dhl84.github.io/spacewise/worksheet-space-physics.html)
 
 ## More from dav3studios
 
