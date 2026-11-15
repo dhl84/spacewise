@@ -27,6 +27,9 @@
 - [Worksheet: Forces](https://dhl84.github.io/spacewise/worksheet-forces.html)
 - [Worksheet: Light and shadows](https://dhl84.github.io/spacewise/worksheet-light-and-shadows.html)
 - [Worksheet: Space physics](https://dhl84.github.io/spacewise/worksheet-space-physics.html)
+- [For museums, libraries and science centres](https://dhl84.github.io/spacewise/museums.html)
+- [Press kit](https://dhl84.github.io/spacewise/press.html)
+- [The total solar eclipse of 2 August 2027](https://dhl84.github.io/spacewise/eclipse-2027.html)
 
 ## More from dav3studios
 
