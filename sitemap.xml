@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://dhl84.github.io/spacewise/</loc></url>
-  <url><loc>https://dhl84.github.io/spacewise/privacy.html</loc></url>
-  <url><loc>https://dhl84.github.io/spacewise/terms.html</loc></url>
-  <url><loc>https://dhl84.github.io/spacewise/support.html</loc></url>
-  <url><loc>https://dhl84.github.io/spacewise/teachers.html</loc></url>
-  <url><loc>https://dhl84.github.io/spacewise/open-licences.html</loc></url>
-  <url><loc>https://dhl84.github.io/spacewise/worksheets.html</loc></url>
-  <url><loc>https://dhl84.github.io/spacewise/worksheet-earth-and-space.html</loc></url>
-  <url><loc>https://dhl84.github.io/spacewise/worksheet-forces.html</loc></url>
-  <url><loc>https://dhl84.github.io/spacewise/worksheet-light-and-shadows.html</loc></url>
-  <url><loc>https://dhl84.github.io/spacewise/worksheet-space-physics.html</loc></url>
-  <url><loc>https://dhl84.github.io/spacewise/museums.html</loc></url>
-  <url><loc>https://dhl84.github.io/spacewise/press.html</loc></url>
-  <url><loc>https://dhl84.github.io/spacewise/eclipse-2027.html</loc></url>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url><loc>https://dhl84.github.io/spacewise/</loc><lastmod>2026-11-25</lastmod><image:image><image:loc>https://dhl84.github.io/spacewise/img/key_art.jpg</image:loc></image:image><image:image><image:loc>https://dhl84.github.io/spacewise/img/shot_pillars.jpg</image:loc></image:image><image:image><image:loc>https://dhl84.github.io/spacewise/img/shot_black_hole.jpg</image:loc></image:image><image:image><image:loc>https://dhl84.github.io/spacewise/img/shot_edge.jpg</image:loc></image:image><image:image><image:loc>https://dhl84.github.io/spacewise/img/shot_eclipse.jpg</image:loc></image:image><image:image><image:loc>https://dhl84.github.io/spacewise/img/shot_ring_glide.jpg</image:loc></image:image><image:image><image:loc>https://dhl84.github.io/spacewise/img/shot_galileo.jpg</image:loc></image:image><image:image><image:loc>https://dhl84.github.io/spacewise/img/shot_saturn.jpg</image:loc></image:image><image:image><image:loc>https://dhl84.github.io/spacewise/img/shot_apollo11.jpg</image:loc></image:image><image:image><image:loc>https://dhl84.github.io/spacewise/img/shot_lab.jpg</image:loc></image:image><image:image><image:loc>https://dhl84.github.io/spacewise/img/shot_profiles.jpg</image:loc></image:image><image:image><image:loc>https://dhl84.github.io/spacewise/img/reading_depths.jpg</image:loc></image:image><video:video><video:thumbnail_loc>https://dhl84.github.io/spacewise/video/trailer.jpg</video:thumbnail_loc><video:title>SpaceWise: The Real Solar System trailer</video:title><video:description>The real solar system at its true size and in true time, with nine narrated Journeys. Fly to the afterglow of the Big Bang, stand in the Moon's shadow in a real eclipse and fall into a spinning black hole. Explore every planet where it is today, real asteroids and all 88 constellations, or put the planets in your room. Four reading depths go from quick facts to expert science, so the whole family can learn together. For ages 10 and up. No ads, no chat, no accounts and no in-app purchases.</video:description><video:content_loc>https://dhl84.github.io/spacewise/video/trailer.mp4</video:content_loc><video:duration>93</video:duration><video:publication_date>2026-11-25</video:publication_date><video:family_friendly>yes</video:family_friendly></video:video></url>
+  <url><loc>https://dhl84.github.io/spacewise/privacy.html</loc><lastmod>2026-11-25</lastmod></url>
+  <url><loc>https://dhl84.github.io/spacewise/terms.html</loc><lastmod>2026-11-25</lastmod></url>
+  <url><loc>https://dhl84.github.io/spacewise/support.html</loc><lastmod>2026-11-25</lastmod></url>
+  <url><loc>https://dhl84.github.io/spacewise/teachers.html</loc><lastmod>2026-11-25</lastmod></url>
+  <url><loc>https://dhl84.github.io/spacewise/open-licences.html</loc><lastmod>2026-11-25</lastmod></url>
+  <url><loc>https://dhl84.github.io/spacewise/worksheets.html</loc><lastmod>2026-11-25</lastmod></url>
+  <url><loc>https://dhl84.github.io/spacewise/worksheet-earth-and-space.html</loc><lastmod>2026-11-25</lastmod></url>
+  <url><loc>https://dhl84.github.io/spacewise/worksheet-forces.html</loc><lastmod>2026-11-25</lastmod></url>
+  <url><loc>https://dhl84.github.io/spacewise/worksheet-light-and-shadows.html</loc><lastmod>2026-11-25</lastmod></url>
+  <url><loc>https://dhl84.github.io/spacewise/worksheet-space-physics.html</loc><lastmod>2026-11-25</lastmod></url>
+  <url><loc>https://dhl84.github.io/spacewise/museums.html</loc><lastmod>2026-11-25</lastmod></url>
+  <url><loc>https://dhl84.github.io/spacewise/press.html</loc><lastmod>2026-11-25</lastmod></url>
+  <url><loc>https://dhl84.github.io/spacewise/eclipse-2027.html</loc><lastmod>2026-11-25</lastmod></url>
 </urlset>

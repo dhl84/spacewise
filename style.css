@@ -80,6 +80,7 @@ a.store { display: inline-block; padding: 0.6rem 1.1rem; border-radius: 10px; ba
 
 img { max-width: 100%; height: auto; border-radius: 10px; display: block; }
 img.hero { margin: 1.5rem 0; }
+video { display: block; width: 100%; height: auto; margin: 1rem 0; border-radius: 10px; background: #000; }
 
 .gallery {
 	display: grid;

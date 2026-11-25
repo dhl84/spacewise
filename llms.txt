@@ -1,6 +1,6 @@
 # SpaceWise: The Real Solar System
 
-> The real solar system at its true size and in true time, with nine narrated Journeys. Fly to the afterglow of the Big Bang, stand in the Moon's shadow in a real eclipse and fall into a spinning black hole. Explore every planet where it is today, real asteroids and all 88 constellations, or put the planets in your room. Four reading depths go from quick facts to expert science, so the whole family can learn together. For ages 10 and up. No ads, no chat, no in-app purchases and no data collected.
+> The real solar system at its true size and in true time, with nine narrated Journeys. Fly to the afterglow of the Big Bang, stand in the Moon's shadow in a real eclipse and fall into a spinning black hole. Explore every planet where it is today, real asteroids and all 88 constellations, or put the planets in your room. Four reading depths go from quick facts to expert science, so the whole family can learn together. For ages 10 and up. No ads, no chat, no accounts and no in-app purchases.
 
 - Price: USD 7.99 in the US store. The store shows the price for your country.
 - Headset: Meta Quest 3, Meta Quest 3S
@@ -10,7 +10,8 @@
 - Controls: Meta Quest Touch controllers
 - Players: Single player
 - Language: English (UK)
-- Ads, chat and in-app purchases: None. The app collects no personal data.
+- Ads, chat and in-app purchases: None
+- Data: The app collects the user ID and the age group of your Meta account. Both stay on the headset, and so does your progress. The privacy policy has the details.
 - Developer: dav3studios
 
 ## Links
@@ -30,6 +31,7 @@
 - [For museums, libraries and science centres](https://dhl84.github.io/spacewise/museums.html)
 - [Press kit](https://dhl84.github.io/spacewise/press.html)
 - [The total solar eclipse of 2 August 2027](https://dhl84.github.io/spacewise/eclipse-2027.html)
+- [Trailer video](https://dhl84.github.io/spacewise/video/trailer.mp4): 93 seconds, MP4
 
 ## More from dav3studios
 
@@ -37,3 +39,5 @@
 - [BeakerWise](https://dhl84.github.io/beakerwise/): 104 science experiments in biology, chemistry and physics on a virtual lab bench.
 - [EpochWise](https://dhl84.github.io/epochwise/): 45 moments of history on the real land, under the sky computed for that date.
 - [GambitWise](https://dhl84.github.io/gambitwise/): Learn chess and Go one small step at a time, with a spoken coach. Free.
+- [CineWise](https://dhl84.github.io/cinewise/): Play your own 3D movie files from your NAS on a giant screen, with real depth.
+- [All apps from dav3studios](https://dhl84.github.io/)
